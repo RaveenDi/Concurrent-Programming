@@ -1,4 +1,4 @@
-package lec_3_2_2024;
+package lec3;
 
 public class CareerMindedWife extends Thread {
 	

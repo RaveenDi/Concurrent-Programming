@@ -1,4 +1,4 @@
-package lec_3_2_2024;
+package lec3;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
